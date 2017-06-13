@@ -5,4 +5,5 @@ body {
 .alert {
 	color: red;
 	font-weight: bold;
+	font-style: unset;
 }
