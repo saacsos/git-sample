@@ -9,3 +9,6 @@ function abc() {
 function add_friend(id) {
 	// add friend by id
 }
+function add_friend(phone) {
+	// add friend by phone
+}
